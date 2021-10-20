@@ -1,0 +1,20 @@
+package toDolist;
+
+public class onedaycampuslife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("07:30am Wake up");
+		System.out.println("08:00am Bathing");
+		System.out.println("08:30am German class");
+		System.out.println("09:30am Buying breakfast");
+		System.out.println("10:00am Reached home and enjoy the meal");
+		System.out.println("10:30am Programming 1 class");
+		System.out.println("10:50am Doing the programming assignment");
+		System.out.println("11:00am Submit the assignment to Github");
+		System.out.println("12:45pm Having my lunch");
+		System.out.println("2:00pm Human Computer Interaction class");
+		System.out.println("4:30pm The end of the lecture day");
+	}
+
+}
